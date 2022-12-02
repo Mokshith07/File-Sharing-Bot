@@ -14,7 +14,7 @@
     &nbsp;<img src="https://img.shields.io/badge/Code%20%F0%9D%95%8F%20Botz-Group-blue?style=flat-square&logo=telegram" width="130" height="18">&nbsp;
   </a>
   <br>
-  <a href="https://github.com/Mokshith07/File-Sharing-Bot">
+  <a href="https://github.com/CodeXBotz/File-Sharing-Bot">
     <img src="https://img.shields.io/github/stars/CodeXBotz/File-Sharing-Bot?style=social">
   </a>
   <a href="https://github.com/CodeXBotz/File-Sharing-Bot/fork">
@@ -69,7 +69,7 @@ The fastest way to deploy the application is to click the **Deploy to Koyeb** bu
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/Mokshith07/File-Sharing-Bot
+git clone https://github.com/CodeXBotz/File-Sharing-Bot
 cd File-Sharing-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
